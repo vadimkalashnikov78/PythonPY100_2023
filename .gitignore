@@ -1,0 +1,6 @@
+*.png
+*.yaml
+.idea
+tests
+*.md
+
