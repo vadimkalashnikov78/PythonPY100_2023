@@ -1,4 +1,4 @@
 a = 5
-square = ...  # TODO найти площадь квадрата
+square = a ** 2
 
-# TODO распечатать результат
+print(square)
